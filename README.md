@@ -1,5 +1,5 @@
 # ConferenceRoom
-Test Assignment
+ Test Assignment
 
 Question:
 Find the nearest open conference room for a team in which a team can hold its meeting. 
